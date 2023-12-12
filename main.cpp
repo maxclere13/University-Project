@@ -1,6 +1,5 @@
-// Assigment 2
-// Student name : Fady Fahmy
-// CSCI 373
+// Fady Fahmy
+// University Project in C++
 
 #include <iostream>
 #include <vector>
